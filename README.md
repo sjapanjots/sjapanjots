@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Japanjot</h1>
+<h1 align="center">Hello, I'm Japanjot</h1>
 <h3 align="center">Data scientist with expertise in statistical analysis, machine learning, and data visualization. Dedicated to leveraging data-driven insights.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sjapanjots.netlify.app/](https://sjapanjots.netlify.app/)
